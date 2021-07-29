@@ -1,0 +1,37 @@
+#homePanel.panel
+	div
+		#tips
+			 
+			strong K-TBA 플랫폼에 방문하신 것을 환영합니다 
+			 
+			 
+			
+
+		#ownerWrap
+			div#toolbarWrap
+				.bottomAlign
+					input(type="text" placeholder="찾으시는 기술명을 입력해주세요" style="margin-left: 0; border-radius:2px;")#searchUsers.longer
+					span.hint(style="margin-left: 10px; font-size: 16px;") 
+						span#foundUsers 0
+						span /
+						span#totalUsers 0
+
+				button(disabled="disabled")#showStartupPanel
+					span.fa.fa-gears
+					span &nbsp; 빠른 시작 도우미
+					
+				span &nbsp;&nbsp;
+
+				button(disabled="disabled")#showSettingsPanel
+					span.fa.fa-gear
+					span &nbsp; 세팅
+				
+				#trashbin.sortable.innerMarbleWrap
+					div.fa.fa-folder-o(style="vertical-align: middle;")
+					span &nbsp;
+					div#trashText 기술이전 완료
+			
+
+
+		#allUserPanelsWrap
+			#appStartingText 거래소 시스템에 접속 중입니다...

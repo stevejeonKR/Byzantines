@@ -1,0 +1,15 @@
+{
+    "cred_filename": "connection_profile_local.json",
+    "use_events": true,
+    "keep_alive_secs": 120,
+    "company": "K_TBA",
+    "usernames": [
+        "UnvalidatedTech",
+        "AI_Validator",
+        "Validated_System",
+	"DID",
+	"AI_DAO",
+	"PoDC"
+    ],
+    "port": 3001
+}
