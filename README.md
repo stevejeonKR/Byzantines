@@ -7,7 +7,7 @@
 
 Byzantines are all brave
 
-- Projects
+- Projects (DID, Hyperledger, Voting)
 - are
 - ✨All good ✨
 
