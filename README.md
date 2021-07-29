@@ -5,7 +5,7 @@
 [![B|zANTIN](https://cdn.one.org/us/wp-content/uploads/2017/06/13105521/15-generals-640x400.png)](https://cldup.com/dTxpPi9lDf.thumb.png)
 
 
-All Byzantines are all brave
+All Byzantines are brave
 
 - Projects (DID, Hyperledger, Voting)
 - are
