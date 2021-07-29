@@ -20,9 +20,9 @@ Byzantines are all brave
 | Byzantines | Introduction |
 | ------ | ------ |
 | Stevejeon | We are the best |
-| Bakdu-Blood | Only thinking of North Korea |
+| Bakdu-Blood | North Korea |
 | Jae-Sung | Mandu papa |
 | Suk-won | China |
-| Gwang-chul | Owner of strip-bar |
+| Gwang-chul | Bar Owner|
 
 **※주의: 이 팀에는 백두혈동의 배신자가 숨어져있다**
