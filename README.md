@@ -18,7 +18,6 @@ Byzantines are all brave
 
 
 | Name | Address |
-| ------ | ------ |
 | Stevejeon | [https://github.com/stevejeonKR] |
 | Bakdu-Blood | [plugins/github/README.md][PlGh] |
 | Jae-Sung | [plugins/googledrive/README.md][PlGd] |
