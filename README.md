@@ -20,9 +20,9 @@ Byzantines are all brave
 | Name | Address |
 | ------ | ------ |
 | Stevejeon | [https://github.com/stevejeonKR] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
+| Bakdu-Blood | [plugins/github/README.md][PlGh] |
+| Jae-Sung | [plugins/googledrive/README.md][PlGd] |
+| Suk-won | [plugins/onedrive/README.md][PlOd] |
+| Gwang-chul | [plugins/medium/README.md][PlMe] |
 
 **※주의: 이 팀에는 백두혈동의 배신자가 숨어져있다**
