@@ -21,10 +21,9 @@
 
 | Byzantines | Introduction |
 | ------ | ------ |
-| 💰Stevejeon | We are the best |
-| ⚒️Bakdu-Blood | North Korea |
-| 🐕‍🦺Jae-Sung | Mandu papa |
-| 🐱Suk-won | China |
-| 🛡️Gwang-chul | Bar Owner|
+| 💰Stevejeon | Team Leader |
+| ⚒️Dong-han | Team Member |
+| 🐕‍🦺Jae-Sung | Team Member |
+| 🐱Suk-won | Team Member |
+| 🛡️Gwang-chul | Team Member |
 
-**※주의: 이 팀에는 백두혈동의 배신자가 숨어져있다**
